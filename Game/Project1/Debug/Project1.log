@@ -1,0 +1,14 @@
+﻿  main.cpp
+d:\cs202\game\project1\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CVehicle.cpp
+  CTruck.cpp
+d:\cs202\game\project1\ctruck.cpp(8): warning C4305: 'argument': truncation from 'double' to 'float'
+  CPeople.cpp
+d:\cs202\game\project1\cpeople.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
+  CGame.cpp
+  CCar.cpp
+d:\cs202\game\project1\ccar.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
+  CAnimal.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\CS202\Game\Debug\Project1.exe
+  Project1.vcxproj -> D:\CS202\Game\Debug\Project1.pdb (Partial PDB)

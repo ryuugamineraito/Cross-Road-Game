@@ -1,0 +1,6 @@
+﻿  CGame.cpp
+d:\cs202\game\project2\cgame.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\cs202\game\project2\cgame.cpp(405): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\cs202\mantognini-sftools-910600d\mantognini-sftools-910600d\include\sftools\chronometer.hpp(172): warning C4715: 'sftools::Chronometer::getElapsedTime': not all control paths return a value
+  Project2.vcxproj -> D:\CS202\Game\Debug\Project2.exe
+  Project2.vcxproj -> D:\CS202\Game\Debug\Project2.pdb (Partial PDB)
